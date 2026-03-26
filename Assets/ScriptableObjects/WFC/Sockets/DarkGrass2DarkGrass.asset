@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: DarkGrass2DarkGrass
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: 11400000}
+      - {fileID: 11400000, guid: cf4a290bac6b543028a80b1e29b6a0d2, type: 2}
+      - {fileID: 11400000, guid: 2593fc44ed4cac258a108b361ffa7ae5, type: 2}
+      - {fileID: 11400000, guid: 96bef6bc5d7f91de3ab6bc87c82554c4, type: 2}
+      - {fileID: 11400000, guid: 5702d5b708e11c5359e1ebc956e08ecd, type: 2}
+    - Key: 2
+      Value:
+      - {fileID: 11400000}
+      - {fileID: 11400000, guid: cf4a290bac6b543028a80b1e29b6a0d2, type: 2}
+      - {fileID: 11400000, guid: 2593fc44ed4cac258a108b361ffa7ae5, type: 2}
+      - {fileID: 11400000, guid: 96bef6bc5d7f91de3ab6bc87c82554c4, type: 2}
+      - {fileID: 11400000, guid: 5702d5b708e11c5359e1ebc956e08ecd, type: 2}
+    - Key: 3
+      Value:
+      - {fileID: 11400000}
+      - {fileID: 11400000, guid: cf4a290bac6b543028a80b1e29b6a0d2, type: 2}
+      - {fileID: 11400000, guid: 2593fc44ed4cac258a108b361ffa7ae5, type: 2}
+      - {fileID: 11400000, guid: 96bef6bc5d7f91de3ab6bc87c82554c4, type: 2}
+      - {fileID: 11400000, guid: 5702d5b708e11c5359e1ebc956e08ecd, type: 2}
+    - Key: 4
+      Value:
+      - {fileID: 11400000}
+      - {fileID: 11400000, guid: cf4a290bac6b543028a80b1e29b6a0d2, type: 2}
+      - {fileID: 11400000, guid: 2593fc44ed4cac258a108b361ffa7ae5, type: 2}
+      - {fileID: 11400000, guid: 96bef6bc5d7f91de3ab6bc87c82554c4, type: 2}
+      - {fileID: 11400000, guid: 5702d5b708e11c5359e1ebc956e08ecd, type: 2}
+    - Key: 5
+      Value:
+      - {fileID: 11400000}
+      - {fileID: 11400000, guid: cf4a290bac6b543028a80b1e29b6a0d2, type: 2}
+      - {fileID: 11400000, guid: 2593fc44ed4cac258a108b361ffa7ae5, type: 2}
+      - {fileID: 11400000, guid: 96bef6bc5d7f91de3ab6bc87c82554c4, type: 2}
+      - {fileID: 11400000, guid: 5702d5b708e11c5359e1ebc956e08ecd, type: 2}
+    - Key: 6
+      Value:
+      - {fileID: 11400000}
+      - {fileID: 11400000, guid: cf4a290bac6b543028a80b1e29b6a0d2, type: 2}
+      - {fileID: 11400000, guid: 2593fc44ed4cac258a108b361ffa7ae5, type: 2}
+      - {fileID: 11400000, guid: 96bef6bc5d7f91de3ab6bc87c82554c4, type: 2}
+      - {fileID: 11400000, guid: 5702d5b708e11c5359e1ebc956e08ecd, type: 2}

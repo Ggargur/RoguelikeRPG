@@ -1,0 +1,1477 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9161682512021187557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_14_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: 4539830346639624301}
+      - {fileID: -8360889657819367438}
+--- !u!114 &-8610318459414023255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_7_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: -2899112597642426608}
+--- !u!114 &-8360889657819367438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_20_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: 6066535643101481461}
+      - {fileID: -9161682512021187557}
+--- !u!114 &-8328522245278616059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_20_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &-8322684284204203871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_20_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: -2899112597642426608}
+--- !u!114 &-6493862315233640694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_15_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &-6115332509606866903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_14_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: -4373353026473505517}
+      - {fileID: -1145824049763655536}
+--- !u!114 &-6048942735194926992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_15_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: -4401199390581942707}
+      - {fileID: 1558664772499571880}
+--- !u!114 &-5900514584566365396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_21_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: 2704154661959963112}
+      - {fileID: 841997658525326908}
+--- !u!114 &-5151022013576074218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_1_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: 8416190637986231523}
+      - {fileID: -849277399578817412}
+      - {fileID: 7286719325963768653}
+      - {fileID: -1996560244912699388}
+--- !u!114 &-4687335457487106749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_8_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: -1913112139540176129}
+      - {fileID: 2787824581187851265}
+--- !u!114 &-4472858817118072915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_7_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: 2787824581187851265}
+      - {fileID: -1913112139540176129}
+--- !u!114 &-4401199390581942707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_15_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: -6048942735194926992}
+      - {fileID: 6525005747191714854}
+--- !u!114 &-4395622524512320584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_8_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &-4373353026473505517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_16_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: -6115332509606866903}
+      - {fileID: 8430797050830909585}
+--- !u!114 &-4342604603046746773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: EMPTY
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &-3997230319987621770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_9_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &-2899112597642426608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_1_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: -8322684284204203871}
+      - {fileID: -8610318459414023255}
+      - {fileID: 5372300488749543153}
+      - {fileID: -491929401861784417}
+--- !u!114 &-2666430317667067036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_20_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &-2411592588487559654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_7_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &-1999387812183514885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_9_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: 3231369214753969606}
+      - {fileID: 5935327048852761867}
+--- !u!114 &-1996560244912699388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_8_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: -5151022013576074218}
+--- !u!114 &-1913112139540176129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_8_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: -4687335457487106749}
+      - {fileID: -4472858817118072915}
+--- !u!114 &-1145824049763655536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_15_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: 8430797050830909585}
+      - {fileID: -6115332509606866903}
+--- !u!114 &-973106496050728700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_22_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &-849277399578817412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_7_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: -5151022013576074218}
+--- !u!114 &-682012269457233146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_14_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &-491929401861784417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_14_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: -2899112597642426608}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e37d48c79794f28884aadd3f68c28d5, type: 3}
+  m_Name: New WFC Database
+  m_EditorClassIdentifier: Assembly-CSharp::WFCDatabase
+  cellTypes:
+  - {fileID: 2982082434237015571}
+  - {fileID: 8046115892708202445}
+  - {fileID: 394066902038241101}
+  - {fileID: 5083215114006670331}
+  - {fileID: 2112762663572316938}
+  - {fileID: 6523110789170037756}
+  - {fileID: 4920974923921604566}
+  - {fileID: 8234047548336855087}
+  - {fileID: 119961287258130117}
+  - {fileID: 7267607880689492741}
+  sockets:
+  - {fileID: -4342604603046746773}
+  - {fileID: 6525005747191714854}
+  - {fileID: -5900514584566365396}
+  - {fileID: 8491306887538869441}
+  - {fileID: 8982145710674570478}
+  - {fileID: 2704154661959963112}
+  - {fileID: 6443346072425839905}
+  - {fileID: -1996560244912699388}
+  - {fileID: -4687335457487106749}
+  - {fileID: -4395622524512320584}
+  - {fileID: 6126987588504347202}
+  - {fileID: -1913112139540176129}
+  - {fileID: 1558664772499571880}
+  - {fileID: 4539830346639624301}
+  - {fileID: -6115332509606866903}
+  - {fileID: -682012269457233146}
+  - {fileID: 3299842916868653356}
+  - {fileID: -491929401861784417}
+  - {fileID: -9161682512021187557}
+  - {fileID: 5935327048852761867}
+  - {fileID: 8914259920849471285}
+  - {fileID: 7765578771028773426}
+  - {fileID: 9061531812659682145}
+  - {fileID: -4373353026473505517}
+  - {fileID: 4766034611141710959}
+  - {fileID: -6048942735194926992}
+  - {fileID: 8430797050830909585}
+  - {fileID: -6493862315233640694}
+  - {fileID: 7184025967749703162}
+  - {fileID: -1145824049763655536}
+  - {fileID: -4401199390581942707}
+  - {fileID: 3231369214753969606}
+  - {fileID: 1570165868690043368}
+  - {fileID: 9073167971109198627}
+  - {fileID: -973106496050728700}
+  - {fileID: 841997658525326908}
+  - {fileID: 9167317526396260135}
+  - {fileID: 7286719325963768653}
+  - {fileID: -2899112597642426608}
+  - {fileID: 4411133466916129354}
+  - {fileID: 2962792417966095018}
+  - {fileID: 5372300488749543153}
+  - {fileID: -5151022013576074218}
+  - {fileID: 8416190637986231523}
+  - {fileID: 6586776850655121243}
+  - {fileID: -3997230319987621770}
+  - {fileID: 8986958283645694669}
+  - {fileID: 2787824581187851265}
+  - {fileID: -1999387812183514885}
+  - {fileID: -849277399578817412}
+  - {fileID: -4472858817118072915}
+  - {fileID: 7853387543980983768}
+  - {fileID: -2411592588487559654}
+  - {fileID: -8610318459414023255}
+  - {fileID: 6066535643101481461}
+  - {fileID: -8360889657819367438}
+  - {fileID: 4884456280454719512}
+  - {fileID: -2666430317667067036}
+  - {fileID: -8328522245278616059}
+  - {fileID: -8322684284204203871}
+  - {fileID: 390419046687837436}
+--- !u!114 &119961287258130117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_7
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727670
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: -849277399578817412}
+    - Key: 2
+      Value: {fileID: -4472858817118072915}
+    - Key: 3
+      Value: {fileID: 7853387543980983768}
+    - Key: 4
+      Value: {fileID: -2411592588487559654}
+    - Key: 5
+      Value: {fileID: -8610318459414023255}
+    - Key: 6
+      Value: {fileID: 6066535643101481461}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727670
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: ad02a008e5b041776b0ca4bcc2a10bc6, type: 2}
+--- !u!114 &390419046687837436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_20_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: 7286719325963768653}
+--- !u!114 &394066902038241101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_14
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727671
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 4539830346639624301}
+    - Key: 2
+      Value: {fileID: -6115332509606866903}
+    - Key: 3
+      Value: {fileID: -682012269457233146}
+    - Key: 4
+      Value: {fileID: 3299842916868653356}
+    - Key: 5
+      Value: {fileID: -491929401861784417}
+    - Key: 6
+      Value: {fileID: -9161682512021187557}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727671
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: 0c10343a6e843375a9cbe3c676d4ee57, type: 2}
+--- !u!114 &841997658525326908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_22_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: 4884456280454719512}
+      - {fileID: -5900514584566365396}
+--- !u!114 &1558664772499571880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_8_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: 6525005747191714854}
+      - {fileID: -6048942735194926992}
+--- !u!114 &1570165868690043368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_22_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: 5372300488749543153}
+--- !u!114 &2112762663572316938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_15
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727672
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: -6048942735194926992}
+    - Key: 2
+      Value: {fileID: 8430797050830909585}
+    - Key: 3
+      Value: {fileID: -6493862315233640694}
+    - Key: 4
+      Value: {fileID: 7184025967749703162}
+    - Key: 5
+      Value: {fileID: -1145824049763655536}
+    - Key: 6
+      Value: {fileID: -4401199390581942707}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727672
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: 5914b4c6365a711439ebd4bb383e816c, type: 2}
+--- !u!114 &2704154661959963112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_21_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: -5900514584566365396}
+      - {fileID: 4884456280454719512}
+--- !u!114 &2787824581187851265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_9_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: -4472858817118072915}
+      - {fileID: -4687335457487106749}
+--- !u!114 &2962792417966095018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_1_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &2982082434237015571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_21
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727673
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 6525005747191714854}
+    - Key: 2
+      Value: {fileID: -5900514584566365396}
+    - Key: 3
+      Value: {fileID: 8491306887538869441}
+    - Key: 4
+      Value: {fileID: 8982145710674570478}
+    - Key: 5
+      Value: {fileID: 2704154661959963112}
+    - Key: 6
+      Value: {fileID: 6443346072425839905}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727673
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: 110002f40b10077f6a6967a7608cea3f, type: 2}
+--- !u!114 &3231369214753969606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_22_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: -1999387812183514885}
+      - {fileID: 4766034611141710959}
+--- !u!114 &3299842916868653356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_14_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &4411133466916129354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_1_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &4539830346639624301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_14_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: -9161682512021187557}
+      - {fileID: 6066535643101481461}
+--- !u!114 &4766034611141710959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_16_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: 5935327048852761867}
+      - {fileID: 3231369214753969606}
+--- !u!114 &4884456280454719512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_20_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: 841997658525326908}
+      - {fileID: 2704154661959963112}
+--- !u!114 &4920974923921604566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_1
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727674
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 7286719325963768653}
+    - Key: 2
+      Value: {fileID: -2899112597642426608}
+    - Key: 3
+      Value: {fileID: 4411133466916129354}
+    - Key: 4
+      Value: {fileID: 2962792417966095018}
+    - Key: 5
+      Value: {fileID: 5372300488749543153}
+    - Key: 6
+      Value: {fileID: -5151022013576074218}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727674
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: 7cbc84404035508efbfebf00c8c50194, type: 2}
+--- !u!114 &5083215114006670331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_16
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727675
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 5935327048852761867}
+    - Key: 2
+      Value: {fileID: 8914259920849471285}
+    - Key: 3
+      Value: {fileID: 7765578771028773426}
+    - Key: 4
+      Value: {fileID: 9061531812659682145}
+    - Key: 5
+      Value: {fileID: -4373353026473505517}
+    - Key: 6
+      Value: {fileID: 4766034611141710959}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727675
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: 6331fe297eff61daa983e0901d06b5e4, type: 2}
+--- !u!114 &5372300488749543153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_1_Left
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 5
+      Value:
+      - {fileID: 1570165868690043368}
+      - {fileID: 6586776850655121243}
+      - {fileID: -2899112597642426608}
+      - {fileID: 8914259920849471285}
+--- !u!114 &5935327048852761867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_16_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: 4766034611141710959}
+      - {fileID: -1999387812183514885}
+--- !u!114 &6066535643101481461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_7_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: -8360889657819367438}
+      - {fileID: 4539830346639624301}
+--- !u!114 &6126987588504347202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_8_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &6443346072425839905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_21_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: 7286719325963768653}
+--- !u!114 &6523110789170037756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_22
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727676
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 3231369214753969606}
+    - Key: 2
+      Value: {fileID: 1570165868690043368}
+    - Key: 3
+      Value: {fileID: 9073167971109198627}
+    - Key: 4
+      Value: {fileID: -973106496050728700}
+    - Key: 5
+      Value: {fileID: 841997658525326908}
+    - Key: 6
+      Value: {fileID: 9167317526396260135}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727676
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: c31cb1d00bffd5d5e842c63fefdad395, type: 2}
+--- !u!114 &6525005747191714854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_21_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: 1558664772499571880}
+      - {fileID: -4401199390581942707}
+--- !u!114 &6586776850655121243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_9_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: 5372300488749543153}
+--- !u!114 &7184025967749703162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_15_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &7267607880689492741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_20
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727677
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: -8360889657819367438}
+    - Key: 2
+      Value: {fileID: 4884456280454719512}
+    - Key: 3
+      Value: {fileID: -2666430317667067036}
+    - Key: 4
+      Value: {fileID: -8328522245278616059}
+    - Key: 5
+      Value: {fileID: -8322684284204203871}
+    - Key: 6
+      Value: {fileID: 390419046687837436}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727677
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: 2e049875859730f318a84658faf200c4, type: 2}
+--- !u!114 &7286719325963768653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_1_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: 9167317526396260135}
+      - {fileID: 390419046687837436}
+      - {fileID: -5151022013576074218}
+      - {fileID: 6443346072425839905}
+--- !u!114 &7765578771028773426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_16_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &7853387543980983768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_7_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &8046115892708202445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_8
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727678
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: -1996560244912699388}
+    - Key: 2
+      Value: {fileID: -4687335457487106749}
+    - Key: 3
+      Value: {fileID: -4395622524512320584}
+    - Key: 4
+      Value: {fileID: 6126987588504347202}
+    - Key: 5
+      Value: {fileID: -1913112139540176129}
+    - Key: 6
+      Value: {fileID: 1558664772499571880}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727678
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: ef697ed1b28e66cc7b9656d1df168196, type: 2}
+--- !u!114 &8234047548336855087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: sheet_9
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 1
+  CellInstance:
+    rid: 5799593485841727679
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 8416190637986231523}
+    - Key: 2
+      Value: {fileID: 6586776850655121243}
+    - Key: 3
+      Value: {fileID: -3997230319987621770}
+    - Key: 4
+      Value: {fileID: 8986958283645694669}
+    - Key: 5
+      Value: {fileID: 2787824581187851265}
+    - Key: 6
+      Value: {fileID: -1999387812183514885}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593485841727679
+      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        tile: {fileID: 11400000, guid: f33dbd0291a38dd109a97a2bd3c13b3a, type: 2}
+--- !u!114 &8416190637986231523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_9_Up
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 1
+      Value:
+      - {fileID: -5151022013576074218}
+--- !u!114 &8430797050830909585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_15_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: -1145824049763655536}
+      - {fileID: -4373353026473505517}
+--- !u!114 &8491306887538869441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_21_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &8914259920849471285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_16_Right
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 2
+      Value:
+      - {fileID: 5372300488749543153}
+--- !u!114 &8982145710674570478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_21_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &8986958283645694669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_9_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &9061531812659682145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_16_Front
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &9073167971109198627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_22_Back
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList: []
+--- !u!114 &9167317526396260135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b90ac0d4369d96f877d1951fbc1f2c, type: 3}
+  m_Name: sheet_22_Down
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.Socket
+  compatibleSockets:
+    _serializedList:
+    - Key: 6
+      Value:
+      - {fileID: 7286719325963768653}

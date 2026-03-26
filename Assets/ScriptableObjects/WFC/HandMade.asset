@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e37d48c79794f28884aadd3f68c28d5, type: 3}
+  m_Name: HandMade
+  m_EditorClassIdentifier: Assembly-CSharp::WFCDatabase
+  cellTypes:
+  - {fileID: 11400000, guid: 475f4179d6e1ef58f815665dc612cd4f, type: 2}
+  - {fileID: 11400000, guid: 3536437968bc7b47293fef0f13d84160, type: 2}
+  - {fileID: 11400000, guid: 4cbcdb7dfdb1391209c4486f68694b51, type: 2}
+  - {fileID: 11400000, guid: a03aa3b6f68477a3883c5ed81c2ecc95, type: 2}
+  - {fileID: 11400000, guid: 4b802b769048e2d39804d36c96f90d9f, type: 2}
+  - {fileID: 11400000, guid: 7e842932d71e019ddaf0533ee0b8ccd9, type: 2}
+  - {fileID: 11400000, guid: a42784babe65bb1c9962bbf9950961b7, type: 2}
+  - {fileID: 11400000, guid: ba071020443d732bf8195e8f3c03d696, type: 2}
+  sockets:
+  - {fileID: 11400000, guid: cf4a290bac6b543028a80b1e29b6a0d2, type: 2}
+  - {fileID: 11400000, guid: 2593fc44ed4cac258a108b361ffa7ae5, type: 2}
+  - {fileID: 11400000, guid: 96bef6bc5d7f91de3ab6bc87c82554c4, type: 2}
+  - {fileID: 11400000, guid: 5702d5b708e11c5359e1ebc956e08ecd, type: 2}
+  - {fileID: 11400000, guid: 36b2246c18fcbd4d6a638b2173100a3f, type: 2}
+  - {fileID: 11400000, guid: aa4538a249cf188dfa161f9cef82affb, type: 2}

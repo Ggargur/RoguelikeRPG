@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe2ae9e9dcc388d39eb31c311df1937, type: 3}
+  m_Name: DarkGrass
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
+  weight: 0.5
+  CellInstance:
+    rid: 5799593470915248305
+  sockets:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 11400000, guid: 36b2246c18fcbd4d6a638b2173100a3f, type: 2}
+    - Key: 2
+      Value: {fileID: 11400000, guid: 36b2246c18fcbd4d6a638b2173100a3f, type: 2}
+    - Key: 5
+      Value: {fileID: 11400000, guid: 36b2246c18fcbd4d6a638b2173100a3f, type: 2}
+    - Key: 6
+      Value: {fileID: 11400000, guid: 36b2246c18fcbd4d6a638b2173100a3f, type: 2}
+  turnable: 0
+  symmetric: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593470915248305
+      type: {class: TilePoolCell, ns: WaveFunction, asm: Assembly-CSharp}
+      data:
+        prefabs:
+        - tile: {fileID: 11400000, guid: 74610fd589d4d2757b328d8ef3546b0a, type: 2}
+          weight: 0.15
+        - tile: {fileID: 11400000, guid: 5914b4c6365a711439ebd4bb383e816c, type: 2}
+          weight: 0.7
+        - tile: {fileID: 11400000, guid: 74610fd589d4d2757b328d8ef3546b0a, type: 2}
+          weight: 0.15
