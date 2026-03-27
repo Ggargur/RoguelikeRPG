@@ -567,9 +567,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AnimationReceiver
   animator: {fileID: 1694099098}
-  moveXParam: xSpeed
-  moveYParam: ySpeed
-  speedParam: Speed
+  parameters:
+  - rid: 5799593487765078112
+  references:
+    version: 2
+    RefIds:
+    - rid: 5799593487765078112
+      type: {class: Vector2Parameter, ns: , asm: Assembly-CSharp}
+      data:
+        xParam: xSpeed
+        yParam: ySpeed
 --- !u!114 &1694099103
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -633,6 +640,8 @@ MonoBehaviour:
   seed: 111
   useRandomizedSeed: 0
   matrixSize: {x: 10, y: 9, z: 1}
+  chunkSize: {x: 2, y: 3, z: 1}
+  maxChunkRetries: 64
   maxIterations: 1000
 --- !u!4 &2011021986
 Transform:

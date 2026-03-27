@@ -1,15 +1,45 @@
+using System;
 using UnityEngine;
+
+[Serializable]
+public abstract class AnimatorParameter
+{
+    public abstract void Apply(Animator animator, Vector2 value);
+}
+
+[Serializable]
+public class MagnitudeParameter : AnimatorParameter
+{
+    [SerializeField] private string paramName;
+
+    public override void Apply(Animator animator, Vector2 value)
+    {
+        animator.SetFloat(paramName, value.magnitude);
+    }
+}
+
+[Serializable]
+public class Vector2Parameter : AnimatorParameter
+{
+    [SerializeField] private string xParam;
+    [SerializeField] private string yParam;
+
+    public override void Apply(Animator animator, Vector2 value)
+    {
+        animator.SetFloat(xParam, value.x);
+        animator.SetFloat(yParam, value.y);
+    }
+}
 
 public class AnimationReceiver : MonoBehaviour
 {
 
     [Header("Animation")]
     [SerializeField] private Animator animator;
+    
+    [SerializeReference, SubclassSelector]
+    private AnimatorParameter[] parameters;
 
-    [Header("Parameter Names")]
-    [SerializeField] private string moveXParam = "MoveX";
-    [SerializeField] private string moveYParam = "MoveY";
-    [SerializeField] private string speedParam = "Speed";
 
     private IMoveAction DirectionChannel
     {
@@ -41,8 +71,9 @@ public class AnimationReceiver : MonoBehaviour
 
     private void OnDirectionChanged(Vector2 direction)
     {
-        animator.SetFloat(moveXParam, direction.x);
-        animator.SetFloat(moveYParam, direction.y);
-        animator.SetFloat(speedParam, direction.sqrMagnitude);
+        foreach (var param in parameters)
+        {
+            param?.Apply(animator, direction);
+        }
     }
 }
