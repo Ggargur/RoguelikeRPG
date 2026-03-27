@@ -938,7 +938,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.CellType
   weight: 1
   CellInstance:
-    rid: 5799593485841727674
+    rid: 5799593487765078121
   sockets:
     _serializedList:
     - Key: 1
@@ -958,10 +958,16 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 5799593485841727674
-      type: {class: SingleTileCell, ns: WaveFunction, asm: Assembly-CSharp}
+    - rid: 5799593487765078121
+      type: {class: TilePoolCell, ns: WaveFunction, asm: Assembly-CSharp}
       data:
-        tile: {fileID: 11400000, guid: 7cbc84404035508efbfebf00c8c50194, type: 2}
+        prefabs:
+        - tile: {fileID: 11400000, guid: 7cbc84404035508efbfebf00c8c50194, type: 2}
+          weight: 0.75
+        - tile: {fileID: 11400000, guid: 64ebec0d14ac6c34cb9c13d0c36a2bce, type: 2}
+          weight: 0.125
+        - tile: {fileID: 11400000, guid: 4f842fbb91d4902678dc7d96dc6b8be4, type: 2}
+          weight: 0.125
 --- !u!114 &5083215114006670331
 MonoBehaviour:
   m_ObjectHideFlags: 0
