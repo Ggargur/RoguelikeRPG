@@ -296,6 +296,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: MapCreator
       objectReference: {fileID: 0}
+    - target: {fileID: 4736554319776397386, guid: 75220efe8e0a201418cb8659ad620199, type: 3}
+      propertyPath: chunkSize.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4736554319776397386, guid: 75220efe8e0a201418cb8659ad620199, type: 3}
+      propertyPath: chunkSize.y
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4736554319776397386, guid: 75220efe8e0a201418cb8659ad620199, type: 3}
+      propertyPath: maxChunkRetries
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 7382359377360098143, guid: 75220efe8e0a201418cb8659ad620199, type: 3}
       propertyPath: tilemap
       value: 
@@ -303,10 +315,88 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4219747333540164050, guid: 75220efe8e0a201418cb8659ad620199, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2805234752304771694}
   m_SourcePrefab: {fileID: 100100000, guid: 75220efe8e0a201418cb8659ad620199, type: 3}
 --- !u!4 &803035869895000067 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 901404347959368463, guid: 75220efe8e0a201418cb8659ad620199, type: 3}
   m_PrefabInstance: {fileID: 551298037622856460}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4407079494262811358 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4219747333540164050, guid: 75220efe8e0a201418cb8659ad620199, type: 3}
+  m_PrefabInstance: {fileID: 551298037622856460}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2805234752304771694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4407079494262811358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6504770b2eb44d3b3104b92c4728688, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.MapCreatorTestRunner
+  mapCreator: {fileID: 5052200584824513350}
+  instantiateCells: 0
+  logEachRun: 0
+  writeSqlite: 1
+  sqliteFileName: wfc_test_results.db
+  csvFileName: wfc_test_results.csv
+  scenarios:
+  - name: Base
+    databaseOverride: {fileID: 0}
+    matrixSize: {x: 10, y: 9, z: 1}
+    chunkSize: {x: 6, y: 6, z: 1}
+    maxChunkRetries: 3
+    maxIterations: 16000
+    useRandomizedSeed: 1
+    seedStart: 111
+    seedCount: 35
+    explicitSeeds: 
+  - name: Grade ampliada
+    databaseOverride: {fileID: 0}
+    matrixSize: {x: 20, y: 18, z: 1}
+    chunkSize: {x: 6, y: 6, z: 1}
+    maxChunkRetries: 3
+    maxIterations: 16000
+    useRandomizedSeed: 1
+    seedStart: 111
+    seedCount: 35
+    explicitSeeds: 
+  - name: "Chunk \xFAnico"
+    databaseOverride: {fileID: 0}
+    matrixSize: {x: 10, y: 9, z: 1}
+    chunkSize: {x: 10, y: 9, z: 1}
+    maxChunkRetries: 3
+    maxIterations: 16000
+    useRandomizedSeed: 1
+    seedStart: 111
+    seedCount: 35
+    explicitSeeds: 
+  - name: Chunk reduzido
+    databaseOverride: {fileID: 0}
+    matrixSize: {x: 10, y: 9, z: 1}
+    chunkSize: {x: 3, y: 3, z: 1}
+    maxChunkRetries: 3
+    maxIterations: 16000
+    useRandomizedSeed: 1
+    seedStart: 111
+    seedCount: 35
+    explicitSeeds: 
+--- !u!114 &5052200584824513350 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4736554319776397386, guid: 75220efe8e0a201418cb8659ad620199, type: 3}
+  m_PrefabInstance: {fileID: 551298037622856460}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4407079494262811358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f48d6aa199abfc4af514be52dad046, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WaveFunction.MapCreator
